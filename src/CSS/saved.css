@@ -1,0 +1,15 @@
+.saved-maincontainer{
+    width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+ 
+}
+.savedcard{
+display: flex;
+flex-direction: row;
+/* overflow: hidden; */
+overflow: hidden;
+ flex-wrap: wrap;
+}
+
